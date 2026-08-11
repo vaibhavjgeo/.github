@@ -10,6 +10,7 @@ Research software and interactive tools from my work in applied geosciences: cli
 
 | Repository | What it is | Live |
 |---|---|---|
+| [heatloop](https://github.com/vaibhavjgeo/heatloop) | Data-centre waste heat x geothermal siting platform - EnEfG assessment, siting scores, multi-step AI agent | [heatloop ↗](https://vaibhavjgeo-heatloop.vercel.app) |
 | [geoscience-portfolio](https://github.com/vaibhavjgeo/geoscience-portfolio) | Portfolio homepage and route hub | [/](https://vaibhavjgeo.vercel.app) |
 | [master-thesis](https://github.com/vaibhavjgeo/master-thesis) | M.Sc. thesis results: CMIP6 x BHE modelling across Germany, interactive atlas | [/thesis](https://vaibhavjgeo.vercel.app/thesis/) |
 | [bhe-recommender](https://github.com/vaibhavjgeo/bhe-recommender) | Click-anywhere geothermal feasibility tool with LLM interpretation and PDF report | [/bhe](https://vaibhavjgeo.vercel.app/bhe/) |
